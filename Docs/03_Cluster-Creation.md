@@ -17,7 +17,7 @@ Do this on the new proxmox machine (Freshly installed proxmox)
 ### If the Clustering is successful we will see:
 ![Final-Result](Images/Final-Result.png)
 
-Where `pve` is the current running server and the `pve1` is the clustered server.
+Where `pve` is the current running server (node 1) and the `pve1` is the clustered server (node 2).
 
 
 
