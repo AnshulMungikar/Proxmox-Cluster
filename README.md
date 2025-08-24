@@ -5,8 +5,8 @@ I am trying to make a proxmox cluster.
 This project documents my setup and experiments with building a **Proxmox VE cluster** at home.  
 It currently consists of 2 nodes:
 
-- Node 1: Main Proxmox server (running production VMs & containers)
-- Node 2: Fresh Proxmox install (cluster member)
+- Node 1: Main Proxmox server (running production VMs & containers) (pve)
+- Node 2: Fresh Proxmox install (cluster member) (pve1)
 
 The goal is to:
 - Create a Proxmox cluster
