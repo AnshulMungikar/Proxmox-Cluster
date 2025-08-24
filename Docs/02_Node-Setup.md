@@ -18,7 +18,7 @@
 
 
 
-So, now when i try to  `ping pve1` I am actually pinging the new proxmox machine (node 2) and I get a response.
+So, now when i try to  `ping pve1`,  I am actually pinging the new proxmox machine (node 2) and I get a response.
 
 #### This is done on the new proxmox (node 2):
      Its ip address is 192.168.1.124   
