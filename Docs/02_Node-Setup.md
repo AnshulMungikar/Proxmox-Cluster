@@ -3,7 +3,7 @@
 2. Hostname: pve.bbrouter 
 
 ### Secondary Proxmox
-1. Installked proxmox
+1. Installed proxmox
 2. Hostname: pve1.bbrouter
 
 
@@ -18,7 +18,7 @@
 
 
 
-So, now when i try to  `ping pve1` i am actually ping the new proxmox machine and i get a respond.
+So, now when i try to  `ping pve1` i am actually pinging the new proxmox machine and I get a response.
 
 #### This is done on the new proxmox (to be clustered):
      Its ip address is 192.168.1.124   
