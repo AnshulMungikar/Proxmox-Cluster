@@ -1,6 +1,6 @@
 #### Creating cluster on pve
 
-On **Node 1** (your current running server):
+On **Node 1** ( current running server):
 Run  `pvecm create cluster`
 Check cluster status: `pvecm status`
 
@@ -10,7 +10,7 @@ Check cluster status: `pvecm status`
 
 
 #### Joining the Second Node
-Do this on the new proxmox machine (Freshly installed proxmox)
+Do this on the new proxmox machine (node 2)
 `pvecm add 192.168.1.123`
 ![Adding pve1 to cluster](Images/Adding-pve1-to-cluster.png)
 
